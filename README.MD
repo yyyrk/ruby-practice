@@ -1,4 +1,4 @@
-# Ruby Practice Metaprogramming Project
+# Ruby Practice Project
 
 ![image_alt](https://github.com/yyyrk/ruby-thinknetica-practice/blob/main/cli_interface.png)
 
